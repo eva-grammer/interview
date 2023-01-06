@@ -1,1 +1,86 @@
-﻿{"contents":[{"imgSrc":[],"tagName":"H1","content":"UNIT 00                         阅读说明"},{"imgSrc":[],"tagName":"P","content":"① 五大主题全收录"},{"imgSrc":[],"tagName":"P","content":"全书收录了“求职准备”、“面试话题”、“面试礼仪”、“面试技巧”和“常用求职信函”共五个方面的求职必备知识，让读者一目了然，明确学习目标。"},{"imgSrc":[],"tagName":"P","content":"② 划分小节，方便查找"},{"imgSrc":[],"tagName":"P","content":"每个章节详细划分成了若干小节，这些都是求职者在求职面试过程中经常会涉及到的问题，读者可以根据需要，有侧重地查找学习，提高学习效率。"},{"imgSrc":[],"tagName":"P","content":"③ 设置场景，编排对话"},{"imgSrc":[],"tagName":"P","content":"书中每一小节都围绕中心人物设置一个场景，并根据场景安排实用的对话，让读者有身临其境之感，更容易掌握知识要点。"},{"imgSrc":[],"tagName":"P","content":"④ 设定中心人物，触类旁通"},{"imgSrc":[],"tagName":"P","content":"全书以杰克和玛丽两个求职者作为中心人物，围绕他们的求职面试经历展开场景对话，方便读者学习他们的求职面试方法和技巧，以便灵活应用。"},{"imgSrc":[],"tagName":"P","content":"⑤ 精选核心词汇，延伸汇总"},{"imgSrc":[],"tagName":"P","content":"每一小节精选场景对话中的关键单词，并延伸出其他的相关单词加以汇总，注以音标、词性和中文意思，方便读者理解和记忆。"},{"imgSrc":[],"tagName":"P","content":"⑥ 经典例句，易于背诵"},{"imgSrc":[],"tagName":"P","content":"书中每一个小节都精心挑选了一些经典例句，简单实用，方便读者背诵记忆。"},{"imgSrc":[],"tagName":"P","content":"⑦ 求职技巧，一点就通"},{"imgSrc":[],"tagName":"P","content":"本书别出心裁地打造了“职场达人小技巧”专栏，为读者提供各种实用的求职必备知识和面试技巧，让读者举一反三、触类旁通。"},{"imgSrc":[],"tagName":"H2","content":"Lesson 0             人物简介"},{"imgSrc":[],"tagName":"P","content":"MARy"},{"imgSrc":["https://res.weread.qq.com/wrepub/epub_26796696_7"],"tagName":"P","content":"Hi，大家好！我是玛丽，刚毕业不久，我现在在找工作，希望找到心仪的工作。"},{"imgSrc":[],"tagName":"P","content":"JACK"},{"imgSrc":["https://res.weread.qq.com/wrepub/epub_26796696_8"],"tagName":"P","content":"Hi，大家好！我叫杰克，是一名刚毕业的大学生，我刚刚步入社会，希望谋求一份与专业对口的工作。"},{"imgSrc":[],"tagName":"P","content":"SMiTH"},{"imgSrc":["https://res.weread.qq.com/wrepub/epub_26796696_9"],"tagName":"P","content":"嗨，大家好，我是史密斯，是公司人力资源部的职员，负责公司的人才选拔与储备。"},{"imgSrc":[],"tagName":"P","content":"JoHN"},{"imgSrc":["https://res.weread.qq.com/wrepub/epub_26796696_10"],"tagName":"P","content":"嗨，大家好，我是约翰，是公司的人力部经理，负责人员的招聘及岗位分配等人事工作。"},{"imgSrc":[],"tagName":"P","content":"JANE"},{"imgSrc":["https://res.weread.qq.com/wrepub/epub_26796696_11"],"tagName":"P","content":"嗨，大家好，我叫简，是一名普通的HR职员，我负责接打电话、收集、统计信息等。"}]}
+﻿{
+  "contents": [
+    {
+      "imgSrc": [],
+      "tagName": "H1",
+      "content": "UNIT 00                         阅读说明"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "① 五大主题全收录" },
+    {
+      "imgSrc": [],
+      "tagName": "P",
+      "content": "全书收录了“求职准备”、“面试话题”、“面试礼仪”、“面试技巧”和“常用求职信函”共五个方面的求职必备知识，让读者一目了然，明确学习目标。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "② 划分小节，方便查找" },
+    {
+      "imgSrc": [],
+      "tagName": "P",
+      "content": "每个章节详细划分成了若干小节，这些都是求职者在求职面试过程中经常会涉及到的问题，读者可以根据需要，有侧重地查找学习，提高学习效率。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "③ 设置场景，编排对话" },
+    {
+      "imgSrc": [],
+      "tagName": "P",
+      "content": "书中每一小节都围绕中心人物设置一个场景，并根据场景安排实用的对话，让读者有身临其境之感，更容易掌握知识要点。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "④ 设定中心人物，触类旁通" },
+    {
+      "imgSrc": [],
+      "tagName": "P",
+      "content": "全书以杰克和玛丽两个求职者作为中心人物，围绕他们的求职面试经历展开场景对话，方便读者学习他们的求职面试方法和技巧，以便灵活应用。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "⑤ 精选核心词汇，延伸汇总" },
+    {
+      "imgSrc": [],
+      "tagName": "P",
+      "content": "每一小节精选场景对话中的关键单词，并延伸出其他的相关单词加以汇总，注以音标、词性和中文意思，方便读者理解和记忆。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "⑥ 经典例句，易于背诵" },
+    {
+      "imgSrc": [],
+      "tagName": "P",
+      "content": "书中每一个小节都精心挑选了一些经典例句，简单实用，方便读者背诵记忆。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "⑦ 求职技巧，一点就通" },
+    {
+      "imgSrc": [],
+      "tagName": "P",
+      "content": "本书别出心裁地打造了“职场达人小技巧”专栏，为读者提供各种实用的求职必备知识和面试技巧，让读者举一反三、触类旁通。"
+    },
+    {
+      "imgSrc": [],
+      "tagName": "H2",
+      "content": "Lesson 0             人物简介"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "MARy" },
+    {
+      "imgSrc": ["https://res.weread.qq.com/wrepub/epub_26796696_7"],
+      "tagName": "P",
+      "content": "Hi，大家好！我是玛丽，刚毕业不久，我现在在找工作，希望找到心仪的工作。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "JACK" },
+    {
+      "imgSrc": ["https://res.weread.qq.com/wrepub/epub_26796696_8"],
+      "tagName": "P",
+      "content": "Hi，大家好！我叫杰克，是一名刚毕业的大学生，我刚刚步入社会，希望谋求一份与专业对口的工作。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "SMiTH" },
+    {
+      "imgSrc": ["https://res.weread.qq.com/wrepub/epub_26796696_9"],
+      "tagName": "P",
+      "content": "嗨，大家好，我是史密斯，是公司人力资源部的职员，负责公司的人才选拔与储备。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "JoHN" },
+    {
+      "imgSrc": ["https://res.weread.qq.com/wrepub/epub_26796696_10"],
+      "tagName": "P",
+      "content": "嗨，大家好，我是约翰，是公司的人力部经理，负责人员的招聘及岗位分配等人事工作。"
+    },
+    { "imgSrc": [], "tagName": "P", "content": "JANE" },
+    {
+      "imgSrc": ["https://res.weread.qq.com/wrepub/epub_26796696_11"],
+      "tagName": "P",
+      "content": "嗨，大家好，我叫简，是一名普通的HR职员，我负责接打电话、收集、统计信息等。"
+    }
+  ]
+}
